@@ -19,7 +19,5 @@ Table 1. Comparative results between Hough transform and our method using KITTI 
 metrics are used in experiments: pixel based Intersection of Union (IoU), purity and accuracy. The upper part of the
 table shows three arbitrary samples and the remaining part shows the average performance of 148 samples
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mregungor/obstacle_detection/main/table.png" alt="Sublime's custom image"/>
-</p>
+
 
